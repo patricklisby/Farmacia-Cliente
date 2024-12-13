@@ -172,7 +172,7 @@ const Producto = ({ producto }) => {
             </p>
             <p className="text-black-300 mb-4">Descripción: {descripcion}</p>
             <p className="text-black-100 mb-4">
-              Precio: <span className="text-black-300">$ {precio}</span>
+              Precio: <span className="text-black-300">$  {precio}</span>
             </p>
             <p className="text-black-100 mb-4">
               Cantidad disponible: <span className="text-black-300">{estado}</span>
